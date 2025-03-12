@@ -3,7 +3,6 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <title></title>
   </head>
   <body style="background-color: #dedede; font-family: arial; text-align: justify; font-size: 18px;"> 
    <div class="container-fluid bg-secondary">
@@ -49,7 +48,6 @@
            <p>Además se ocupa de la monitoización/gobierno de los servicios actuales, la cartera del proyectos de construcción de nuevos servicios, y del acompañamiento al proceso de proyectos en curso.<br>Estos marcos se encargan de gobernar los costes y la complejidad de los servicios de SI/TI de la empresa, maximizando el valor que aportan al negocio.</p>
          </div>
        </div>
-       <!--Cuarto renglo-->
        <div class="row mt-3">
          <div class="col-12">
          <p>En esta parte recordemos el concepto de arquitectura empresarial, que consiste en optimizar dentro de la empresa todos los elementos que apoyan la realización de la estrategia de negicio. La arquitectura empresarial posibilita tener una versión global de la empresa, incluyendo los procesos, la estructura organizacional y las tenologías de la información, lo que facilita el cumplimiento de sus objetivos estratégicos.</p>
