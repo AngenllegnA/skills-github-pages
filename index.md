@@ -1,14 +1,11 @@
-<html lang="en">
+<html>
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <title></title>
   </head>
   <body style="background-color: #dedede; font-family: arial; text-align: justify; font-size: 18px;"> 
-    <!--Titulo-->
    <div class="container-fluid bg-secondary">
     <div class="container">
      <div class="row">
@@ -19,7 +16,6 @@
      </div>
    </div>
   </div>
-   <!--Cuerpo-->
    <div class="container-fluid">
      <div class="row mt-3">
        <div class="col-12">
