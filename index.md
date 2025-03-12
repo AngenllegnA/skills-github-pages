@@ -3,14 +3,11 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-
     <title></title>
   </head>
-  <body style="background-color: #dedede; font-family: arial; text-align: justify; font-size: 18px;">
-    
+  <body style="background-color: #dedede; font-family: arial; text-align: justify; font-size: 18px;"> 
     <!--Titulo-->
    <div class="container-fluid bg-secondary">
     <div class="container">
@@ -39,8 +36,6 @@
          <p>Un <b> marco de trabajo </b> para la arquitectura empresarial es un conjunto de herramientas, metodologías, mejores prácticas y estándares que ayudan a las organizaciones a diseñar, planificar, implementar y gestionar su arquitectura empresarial. Su objetivo principal es alinear la estrategia de negocio con la tecnología, garantizando que los sistemas, procesos, datos y recursos de TI estén organizados de manera eficiente para cumplir con los objetivos de la organización</p>
        </div>
       </div>
-
-       <!--Segundo renglon-->
        <div class="row mt-3 justify-content-center">
          <div class="col-6 align-self-center">
          <p>El objetivo principal de un marco es alinear los servicios de TI con las necesidades del negocio, garantizando que la infraestructura y los recursos de TI se utilicen de manera eficiente y efectiva para brindar valor a los usuarios.</p>
@@ -49,7 +44,6 @@
            <img style="height: 300px;" src="img/arquitectura-de-procesos-de-negocio-big.jpg" class="img-fluid" alt="Clinque Terre">
          </div>
        </div>
-
        <!--Tercer renglo-->
        <div class="row mt-3">
          <div class="col-6">
@@ -59,20 +53,14 @@
            <p>Además se ocupa de la monitoización/gobierno de los servicios actuales, la cartera del proyectos de construcción de nuevos servicios, y del acompañamiento al proceso de proyectos en curso.<br>Estos marcos se encargan de gobernar los costes y la complejidad de los servicios de SI/TI de la empresa, maximizando el valor que aportan al negocio.</p>
          </div>
        </div>
-
        <!--Cuarto renglo-->
        <div class="row mt-3">
          <div class="col-12">
          <p>En esta parte recordemos el concepto de arquitectura empresarial, que consiste en optimizar dentro de la empresa todos los elementos que apoyan la realización de la estrategia de negicio. La arquitectura empresarial posibilita tener una versión global de la empresa, incluyendo los procesos, la estructura organizacional y las tenologías de la información, lo que facilita el cumplimiento de sus objetivos estratégicos.</p>
          </div>
        </div>
-
      </div>
    </div>
-
-    <!-- Optional JavaScript; choose one of the two! -->
-
-    <!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct" crossorigin="anonymous"></script>
     <script src="js/bootstrap.min.js"></script>
