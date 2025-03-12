@@ -15,7 +15,7 @@
      </div>
    </div>
   </div>
-   <div class="container-fluid">
+   <div class="container-fluid text-start">
      <div class="row mt-3">
        <div class="col-12">
          <p><b>¿Qué es la arquitectura empresarial?</b><br>La arquitectura empresarial es una disciplina que se enfoca en la estructura y el funcionamiento de una organización. Incluye: <br> 
